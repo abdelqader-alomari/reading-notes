@@ -12,4 +12,4 @@ By contrast, in a **fixed mindset**, intelligence and talent are seen as fixed t
 | Success of Others | is Inspired by | Views as threat |
 | Summary | Achieves more & Higher goals | Fails to reach full potential |
 
-![image](https://user-images.githubusercontent.com/76455869/116813201-53215880-ab5b-11eb-8240-e8a8c611dbdf.png)
+![Growth Mindset} https://www.pinclipart.com/picdir/big/121-1210322_clip-art-black-and-white-activity-the-truth.png
