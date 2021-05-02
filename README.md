@@ -20,3 +20,12 @@ By contrast, in a **fixed mindset**, intelligence and talent are seen as fixed t
 * Try several learning tactics
 * Replace the word **"failing"** with the word **"learning"**
 * Portray criticism as positive.
+
+| Compare in                    | Growth Mindset                | Fixed Mindset                 |
+| ----------------------------- | ----------------------------- | ----------------------------- |
+| Challenges                    | Embraces                      | Avoid                         |
+| Obstacles                     | Persists                      | Loses focus                   |
+| Effort                        | No pain,no gain               | Views as fruitless            |
+| Criticim                      | Learns from                   | Ignores                       |
+| Success of Others             | is Inspired by                | Views as threat               |
+| Summary                       | Achieves more & Higher goals  | Fails to reach full potential |
