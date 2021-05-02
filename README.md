@@ -4,7 +4,7 @@ A **growth mindset** is synonymous with a love of learning.And believes that one
 By contrast, in a **fixed mindset**, intelligence and talent are seen as fixed traits.
 ## The difference between growth and fixed mindset:
 | Compare in | Growth Mindset | Fixed Mindset |
-|------------| ---------------| --------------|
+|----------| -----------| ----------|
 | Challenges | Embraces | Avoid |
 | Obstacles | Persists | Loses focus |
 | Effort | No pain,no gain | Views as fruitless |
