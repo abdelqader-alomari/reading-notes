@@ -4,6 +4,7 @@ The types of version control:
 1. Local Version Control
 2. Centralized Version Control
 3. Distributed Version Control
+
 ### What is Git and Features of it:
 * Snapshots
 * Local Operations
