@@ -1,4 +1,4 @@
-Hello, my name is Abdelqader Al-Omari, in the class of software development, I am sharing with you my submitted assignment of the second day of 102 Code.
+Hello, my name is Abdelqader Al-Omari, in the class of software development, I am sharing with you my updated submitted assignment of of 102 Code.
 
 | Topic | Link of Topic |
 | ------------ | ------------ |
