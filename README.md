@@ -9,6 +9,7 @@ Hello, my name is Abdelqader Al-Omari, in the class of software development, I a
 | Read 03b | [CSS](https://abdelqader7.github.io/reading-notes/read-03b)
 | Read 04a | [JavaScript](https://abdelqader7.github.io/reading-notes/read-04a)
 | Read 05 | [Operators & Loops](https://abdelqader7.github.io/reading-notes/read-05)
+| Read 06 | [Programming with JavaScript](https://abdelqader7.github.io/reading-notes/read-06) |
 
 
 
